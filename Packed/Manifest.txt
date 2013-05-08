@@ -1,0 +1,3 @@
+Main-Class: com.sirma.itt.javacourse.intro.Launcher
+Class-Path: com/sirma/itt/javacourse/intro/lib/IntroJava.jar
+
